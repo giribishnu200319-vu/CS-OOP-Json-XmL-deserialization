@@ -1,0 +1,24 @@
+<users>
+  <user>
+    <name>John</name>
+    <age>25</age>
+    <city>New York</city>
+  </user>
+
+  <user>
+    <name>Alice</name>
+    <age>30</age>
+    <city>London</city>
+  </user>   
+
+  <user>
+    <name>Bob</name>
+    <age>22</age>
+    <city>Paris</city>
+  </user>
+  <user>
+    <name>Eve</name>
+    <age>28</age>
+    <city>Tokyo</city>  
+  </user>   
+</users>
