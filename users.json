@@ -18,5 +18,10 @@
     "Name": "Eve",
     "Age": 28,
     "City": "Tokyo"
+  },
+  {
+    "Name": "Michael",
+    "Age": 28,
+    "City": "Berlin"
   }
 ]
