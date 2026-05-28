@@ -12,6 +12,10 @@ class Program
         public int Age { get; set; }
         public required string City { get; set; }
     }
+    public class Admin : User
+    {
+        public required string Role { get; set; }
+    }
 
     static void Main(string[] args)
     {
